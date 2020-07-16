@@ -10,7 +10,6 @@ export default class Section1 extends Component {
                 <nav class="navbar whitenav justify-content-between navbar-expand-lg navbar-light">
                     <img class="logo" src={logo}/>
                     <div class="navbar-nav">
-                        <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
                         <button class="btn btn-outline-primary bp">Contact</button>
                     </div>
                 </nav>

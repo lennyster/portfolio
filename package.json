@@ -6,9 +6,15 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "expo-cli": "^3.22.1",
+    "native-base": "^2.13.12",
+    "node": "^14.5.0",
     "react": "^16.13.1",
     "react-bootstrap": "^1.2.1",
     "react-dom": "^16.13.1",
+    "react-modal-image": "^2.5.0",
+    "react-native": "^0.63.0",
+    "react-native-vector-icons": "^7.0.0",
     "react-scripts": "3.4.1"
   },
   "scripts": {
