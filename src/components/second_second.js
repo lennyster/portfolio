@@ -10,7 +10,7 @@ export default class Section2 extends Component {
         return (
             <div class="row py-5">            
                 <div class="col-12 py-5 d-flex text-center justify-content-center align-items-center flex-column">
-                    <h1 className="first_title">Developer Front-end & WordPress</h1>
+                    <h1 className="first_title">Developper Front-end & WordPress</h1>
                     <p className="second_title">Que peut faire la créativité pour vous ?</p>
                     <div class="avatar-part">
                         <img class="avatar" src={avatar} />
