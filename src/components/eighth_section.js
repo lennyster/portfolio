@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export default class Section8 extends Component {
     render(){
         return(
-            <div class="row justify-content-center align-items-center flex-column py-5">
+            <div class="row justify-content-center align-items-center flex-column py-5" id="contact">
                 <h2 class="my_h2 mb-4">Contact</h2>
                 <form style={{width: "50%"}} class="text-center" action="mailto:eris.tandou@epitech.eu" ENCTYPE="text/plain" method="post">
                     <div class="form-group px-5">

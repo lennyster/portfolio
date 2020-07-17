@@ -126,6 +126,13 @@
   letter-spacing: 2px;
 }
 
+.my_h2_2 {
+  font-weight: 600;
+  color: white !important;
+  font-family: 'Do Hyeon';
+  letter-spacing: 2px;
+}
+
 .icon_section4 {
   width: 150px;
 }
