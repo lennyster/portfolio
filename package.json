@@ -15,7 +15,8 @@
     "react-modal-image": "^2.5.0",
     "react-native": "^0.63.0",
     "react-native-vector-icons": "^7.0.0",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "serve": "^11.3.2"
   },
   "scripts": {
     "start": "react-scripts start",
